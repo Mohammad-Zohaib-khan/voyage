@@ -1,0 +1,17 @@
+**/node_modules
+**/dist
+.git
+.github
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+.DS_Store
+**/coverage
+**/*.tsbuildinfo
+e2e/test-results
+test-results
+playwright-report
+.idea
+.vscode
